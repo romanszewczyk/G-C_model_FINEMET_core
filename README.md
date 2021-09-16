@@ -1,5 +1,5 @@
 # G-C_model_FINEMET_core
-Gyrator-capacitor model of inductive element with core madeof FINEMET nanocrystalline alloy (in LTSPICE)
+Gyrator-capacitor model of inductive element with core made of FINEMET nanocrystalline alloy (in LTSPICE)
 
 For the manuscript:
 R. Szewczyk et al.
